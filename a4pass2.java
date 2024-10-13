@@ -1,3 +1,4 @@
+// rename file to pass2.java
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
